@@ -21,8 +21,8 @@ PharmaWatch is a pharmacy management project used to manage medicine details, st
 * HTML
 * CSS
 * JavaScript
-* Python / Java / Node.js
-* MySQL / MongoDB
+* Node.js / express.js
+* supabase
 
 ---
 
