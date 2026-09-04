@@ -1,5 +1,0 @@
-{
-  "css.lint.unknownAtRules": "ignore",
-  "json.schemaDownload.enable": false,
-  "json.format.enable": true
-}
